@@ -4,3 +4,4 @@ just a add test under the gpl
 branchtest feature1test add master
 testsss
 devtest
+stashtest
